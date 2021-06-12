@@ -247,11 +247,9 @@
         font-size: 0.9em;
       }
       .welcome2{
-        top: 42%;
+        top: 25%;
         font-size: 0.65em;
-        z-index: 1;
         left: 5%;
-        color: #145e9b;
       }
       .banner .since{
         display: none;
