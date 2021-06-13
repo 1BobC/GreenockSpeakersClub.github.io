@@ -247,9 +247,10 @@
         font-size: 0.9em;
       }
       .welcome2{
-        top: 25%;
+        /* top: 25%;
         font-size: 0.65em;
-        left: 5%;
+        left: 5%; */
+        display: none;
       }
       .banner .since{
         display: none;
